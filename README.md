@@ -32,11 +32,11 @@ In future, we are planning to  add features like gender recognition and sentimen
 
 # Contributions:
 
-- Prasang:
-- Anmol:
-- Prerit:
-- Varun:
-- Deepak:
+-Prasang: Led the front-end development, building an intuitive and user-friendly interface using React, ensuring seamless navigation and quick access to emergency features.
+-Anmol: Worked on the back-end architecture, setting up secure and efficient APIs with Node and Express to handle real-time data transmission and location sharing.
+-Prerit: Implemented the live audio and video streaming functionalities.
+-Varun: Developed the emergency alert system, integrating the tap-activated distress alert feature that instantly notifies contacts with the user’s location and live updates , enabling real-time communication with emergency contacts.
+-Deepak: Wrote detailed content about the prototype, explaining the web app’s purpose, features, and future vision, effectively communicating the web app's value and impact.
 
 
 
