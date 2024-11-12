@@ -28,19 +28,19 @@ Sakhi, Safety Awareness Knowledge Help and Independence, means "friend" and that
 - Emergency Alerts: In case of an emergency, a quick tap activates a distress alert, notifying your contacts with your location and live updates.
 
 Future of SAKHI:
-In future, we are planning to  add features like gender recognition and sentiment analysis using machine learning. We care about you and your loved ones, and together we can create a create that is most reliable and addresses all the problems. Therefore, we care for your suggestion and reviews for the betterment of our app.
+In future, we are planning to  add features like gender recognition and sentiment analysis using machine learning.
 
 # Contributions:
 
--Prasang: Led the front-end development, building an intuitive and user-friendly interface using React, ensuring seamless navigation and quick access to emergency features.
+- Prasang: Led the front-end development, building an intuitive and user-friendly interface using React, ensuring seamless navigation and quick access to emergency features.
 
--Anmol: Worked on the back-end architecture, setting up secure and efficient APIs with Node and Express to handle real-time data transmission and location sharing.
+- Anmol: Worked on the back-end architecture, setting up secure and efficient APIs with Node and Express to handle real-time data transmission and location sharing.
 
--Prerit: Implemented the live audio and video streaming functionalities.
+- Prerit: Implemented the live audio and video streaming functionalities.
 
--Varun: Developed the emergency alert system, integrating the tap-activated distress alert feature that instantly notifies contacts with the user’s location and live updates , enabling real-time communication with emergency contacts.
+- Varun: Developed the emergency alert system, integrating the tap-activated distress alert feature that instantly notifies contacts with the user’s location and live updates, enabling real-time communication with emergency contacts.
 
--Deepak: Wrote detailed content about the prototype, explaining the web app’s purpose, features, and future vision, effectively communicating the web app's value and impact.
+- Deepak: Wrote detailed content about the prototype, explaining the web app’s purpose, features, and future vision, effectively communicating the web app's value and impact.
 
 
 
